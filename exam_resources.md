@@ -33,6 +33,8 @@ There are too many resources that provide exercises, and this is clearly not a c
 
 - https://github.com/dgkanatsios/CKAD-exercises
 - https://thospfuller.com/2020/11/09/answers-to-five-kubernetes-ckad-practice-questions-2021/
+- https://github.com/jamesbuckett/ckad-questions
+- Any others you can find...
 
 ## Simulated Exam Environment
 https://killercoda.com/kimwuestkamp/scenario/cks-cka-ckad-remote-desktop
